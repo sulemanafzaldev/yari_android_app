@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">YariApp</string>
+
+
+    <string name="password_mismatch">Passwords do not match. Please try again.</string>
+    <string name="no_space">Username should not contain spaces.</string>
+    <string name="email_not_valid">Please enter a valid email address.</string>
+    <string name="check_fields">Please check all the fields. None of them can be empty.</string>
+
+    <string name="str_splash_title"> جدید تعلیم، روشن مستقبل کے لیے نوجوانوں کی رہنمائی</string>
+    <string name="str_skip">چھوڑ دیں</string>
+    <string name="str_register">رجسٹر کریں</string>
+    <string name="str_login">لاگ ان کریں</string>
+    <string name="str_name">نام</string>
+    <string name="str_password">پاس ورڈ</string>
+    <string name="str_forgot_password">پاس ورڈ بھول گئے؟</string>
+    <string name="str_enter_detail">اپنی تفصیلات درج کریں</string>
+    <string name="str_conf_password">پاس ورڈ کی تصدیق کریں</string>
+    <string name="str_not_user_register_now">کیا آپ صارف نہیں ہیں؟ ابھی <font color="#265AE8">رجسٹر</font> کریں</string>
+    <string name="str_not_user_login">کیا آپ صارف ہیں؟ <font color="#265AE8"> لاگ ان</font> کریں</string>
+    <string name="str_welcom_continu_login">خوش آمدید! \n جاری رکھنے کے لیے سائن ان کریں</string>
+    <string name="str_email">ای میل</string>
+    <string name="str_gender">جنس</string>
+    <string name="str_please_provide_info">براہ راست کرم یہ معلومات فراہم کریں! </string>
+    <string name="str_dob">تاریخ  پیدائش</string>
+    <string name="str_complete">"مکمل کریں "</string>
+    <string name="str_cancel">منسوخ کریں</string>
+
+
+    <string-array name="select_province">
+        <item>صوبہ منتخب کریں</item>
+        <item>پنجاب</item>
+        <item>سندھ</item>
+        <item>خیبر پختونخوا</item>
+        <item>بلوچستان</item>
+        <item>گلگت بلتستان</item>
+        <item>آزاد جموں و کشمیر</item>
+
+    </string-array>
+
+
+    <string-array name="select_district">
+        <item>ضلع منتخب کریں</item>
+        <!-- Punjab -->
+        <item>لاہور</item>
+        <item>راولپنڈی</item>
+        <item>فیصل آباد</item>
+        <item>گوجرانوالہ</item>
+        <item>ملتان</item>
+        <item>سرگودھا</item>
+        <item>شیخوپورہ</item>
+        <item>سیالکوٹ</item>
+        <item>بھکر</item>
+        <item>ڈیرہ غازی خان</item>
+        <item>خانیوال</item>
+        <item>میانوالی</item>
+        <item>مظفرگڑھ</item>
+        <item>پاکپتن</item>
+        <item>رحیم یار خان</item>
+        <item>ساہیوال</item>
+        <item>ٹوبہ ٹیک سنگھ</item>
+        <item>وہاڑی</item>
+        <!-- Sindh -->
+        <item>کراچی</item>
+        <item>حیدرآباد</item>
+        <item>سکھر</item>
+        <item>لاڑکانہ</item>
+        <item>نواب شاہ</item>
+        <item>میرپورخاص</item>
+        <item>دادو</item>
+        <item>بدین</item>
+        <item>ٹھٹھہ</item>
+        <item>سانگھڑ</item>
+        <item>عمرکوٹ</item>
+        <!-- Khyber Pakhtunkhwa -->
+        <item>پشاور</item>
+        <item>مردان</item>
+        <item>ایبٹ آباد</item>
+        <item>سوات</item>
+        <item>چارسدہ</item>
+        <item>کوہاٹ</item>
+        <item>ڈیرہ اسماعیل خان</item>
+        <item>ہری پور</item>
+        <item>بنوں</item>
+        <item>نوشہرہ</item>
+        <item>مانسہرہ</item>
+        <!-- Balochistan -->
+        <item>کوئٹہ</item>
+        <item>لورالائی</item>
+        <item>چمن</item>
+        <item>خضدار</item>
+        <item>سبی</item>
+        <item>تربت</item>
+        <item>گوادر</item>
+        <item>زیارت</item>
+        <item>قلات</item>
+        <!-- Gilgit Baltistan -->
+        <item>گلگت</item>
+        <item>سکردو</item>
+        <item>دیامر</item>
+        <item>غذر</item>
+        <item>ہنزہ</item>
+        <item>گھانچھے</item>
+        <!-- Azad Jammu and Kashmir -->
+        <item>مظفرآباد</item>
+        <item>میرپور</item>
+        <item>باغ</item>
+        <item>پونچھ</item>
+        <item>کوٹلی</item>
+        <item>سدھنوتی</item>
+        <item>بھمبر</item>
+        <!-- Islamabad -->
+        <item>اسلام آباد</item>
+    </string-array>
+
+
+</resources>
